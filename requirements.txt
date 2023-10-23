@@ -1,0 +1,20 @@
+# local package
+-e .
+
+# external requirements
+click
+numpy
+coverage
+flake8
+python-dotenv>=0.5.1
+spc @ git+https://github.com/rohanisaac/spc.git@master
+rampy
+pandas
+olefile
+pyarrow
+matplotlib
+mlflow
+torch==2.0.1
+tqdm
+cvxpy
+openpyxl
