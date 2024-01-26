@@ -56,6 +56,13 @@ Project Organization
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 
+
+
+[![DOI](https://zenodo.org/badge/669196104.svg)](https://zenodo.org/doi/10.5281/zenodo.10571617)
+
+
+
+
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
